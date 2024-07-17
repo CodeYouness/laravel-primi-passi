@@ -9,4 +9,4 @@
 - Run on two separeted terminals:
     - run `npm run dev` to build iteratively our front-end packages and code
     - run `php artisan serve` to build iteratively our back-end packages and code
-- Start changing the world with your oustanding code!
+- The world is yours...
