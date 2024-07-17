@@ -5,7 +5,9 @@
 @endsection
 
 @section('main-content')
+<main>
     <h1>
         homepage
     </h1>
+</main>
 @endsection
